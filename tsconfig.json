@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+      "typeRoots": ["./node_modules/@types", "./node_modules/@raydium-io/raydium-sdk/lib/types"],
+      // other options...
+    }
+  }
+  
